@@ -69,10 +69,10 @@ async def start_handler(client, message):
         [InlineKeyboardButton("➕ Add to Group", url=f"https://t.me/{client.me.username}?startgroup=true")],
         [
             InlineKeyboardButton("📜 Commands", callback_data="show_help"),
-            InlineKeyboardButton("📢 Channel", url="https://t.me/kustbots"),
+            InlineKeyboardButton("📢 Channel", url="https://t.me/ll_ABOUT_SASUKE_ll"),
         ],
         [
-            InlineKeyboardButton("💬 Support", url="https://t.me/kustbots"),
+            InlineKeyboardButton("💬 Support", url="https://t.me/+ZEX3YHRTy-swNDll"),
             InlineKeyboardButton("👤 Owner", url=f"tg://user?id={owner_id}"),
         ],
     ]
