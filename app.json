@@ -7,23 +7,23 @@
   "stack": "container",
   "env": {
     "API_ID": {
-      "description": "Your Telegram API_ID from https://my.telegram.org",
+      "description": "39782277",
       "required": true
     },
     "API_HASH": {
-      "description": "Your Telegram API_HASH from https://my.telegram.org",
+      "description": "c17770cb00d3f63a83ff58028e80cbd4",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram bot token from @BotFather",
+      "description": "8868118957:AAF7E0J5SBWfOb4xhbBwuB4Zi9MS16A7dqw",
       "required": true
     },
     "ASSISTANT_SESSION": {
-      "description": "Pyrogram string session for assistant account",
+      "description": "BQJfB4UAWeED9GBdXYLH3S0ecaZcMblzsasROax5eZl51GK7wZ26_FqhDoPilD7bIpgq82hgIItBEJxSW4s118xO6fqdLrSBlZaoZ2ev1iKRc1OqqRYtvWVC5HqBSvxkmPF40nXm_IFPbW-e6txCKgAzmUc1viaa96DxrdGR2CaUQNO2wmaBi6k5doSDyA9hnJuZb_moL8glb8GpsKr9mZKDTt1wVjRBe52XJ3Z8elK9APYd75Gc8MAwDLrYMRoR1WfJ0gDFb4la660ttXslTItwJsLWyFyxVeEj1HRE4HvRAzIqTdwVl6FFjHaLzPwyyhx8N1VqBDelLtvRB5l957Dsh6PT1gAAAAIJGaMzAA",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram user ID (integer)",
+      "description": "8672927645",
       "required": true
     },
     "SEARCH_API_URL": {
