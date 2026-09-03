@@ -1,10 +1,9 @@
 import os
-
-API_ID = int(os.getenv("API_ID", "29568441"))
-API_HASH = os.getenv("API_HASH", "b32ec0fb66d22da6f77d355fbace4f2a")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-SESSION_STRING = os.getenv("ASSISTANT_SESSION")
-MAIN_OWNER = int(os.getenv("OWNER_ID", "8673494392"))
+API_ID = int(os.getenv("API_ID", "39782277"))
+API_HASH = os.getenv("API_HASH", "c17770cb00d3f63a83ff58028e80cbd4")
+BOT_TOKEN = os.getenv("BOT_TOKEN"8868118957:AAF7E0J5SBWfOb4xhbBwuB4Zi9MS16A7dqw")
+SESSION_STRING = os.getenv("ASSISTANT_SESSION"BQJfB4UAWeED9GBdXYLH3S0ecaZcMblzsasROax5eZl51GK7wZ26_FqhDoPilD7bIpgq82hgIItBEJxSW4s118xO6fqdLrSBlZaoZ2ev1iKRc1OqqRYtvWVC5HqBSvxkmPF40nXm_IFPbW-e6txCKgAzmUc1viaa96DxrdGR2CaUQNO2wmaBi6k5doSDyA9hnJuZb_moL8glb8GpsKr9mZKDTt1wVjRBe52XJ3Z8elK9APYd75Gc8MAwDLrYMRoR1WfJ0gDFb4la660ttXslTItwJsLWyFyxVeEj1HRE4HvRAzIqTdwVl6FFjHaLzPwyyhx8N1VqBDelLtvRB5l957Dsh6PT1gAAAAIJGaMzAA")
+MAIN_OWNER = int(os.getenv("OWNER_ID", "8672927645"))
 DEPLOYED_OWNER_ID = int(os.getenv("OWNER_ID", "8673494392"))
 SEARCH_API_URL = os.getenv("SEARCH_API_URL", "https://search-api.kustbotsweb.workers.dev")
 DOWNLOAD_API_BASE = os.getenv("DOWNLOAD_API_BASE", "").rstrip("/")
